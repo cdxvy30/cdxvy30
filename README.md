@@ -2,9 +2,10 @@
 
 ### 🔭 Work experience
 
-- Software Engineer Intern @[LINE](https://techblog.lycorp.co.jp/zh-hant)
-- Cloud Architect Intern @[Cathay Holdings](https://www.cathayholdings.com/holdings/career)
-- Backend Engineer Intern @[Jubo](https://jubo-health.com/team/)
+- AWS Educate Cloud Ambassador, Technical Support @[AWS](https://aws.amazon.com/tw/education/awseducate/) (2024/12~Now)
+- Software Engineer Intern @[LINE](https://techblog.lycorp.co.jp/zh-hant) (2024/07~Now)
+- Cloud Architect Intern @[Cathay Holdings](https://www.cathayholdings.com/holdings/career) (2024/02~06)
+- Backend Engineer Intern @[Jubo](https://jubo-health.com/team/) (2023/07~09)
 
 ### ⚡ More about me
 
