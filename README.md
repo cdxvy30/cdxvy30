@@ -1,6 +1,6 @@
 ## Hi there, I'm Cody 🐶 !
 
-### 🔭 Working experience
+### 🔭 Work experience
 
 - Software Engineer Intern @[LINE](https://techblog.lycorp.co.jp/zh-hant)
 - Cloud Architect Intern @[Cathay Holdings](https://www.cathayholdings.com/holdings/career)
@@ -8,7 +8,7 @@
 
 ### ⚡ More about me
 
-- I don't have any educational background in computer science. **I learned to program because I wanted to build something cool**.
+- I don't have any educational background in computer science. **I learn to program because I wanted to build something cool**.
 - Recently found that I tend to think of myself as a **life developer**.
 - In addition to coding, I also like:
   - Sports, especially basketball and soccer.
@@ -27,8 +27,8 @@
 
 - Linkedin: https://www.linkedin.com/in/cdxvy30
 - E-mail: cdxvy30@gmail.com
-- Instagram: https://instagram.com/cdxvy30
-- X: cdxvy30
+- Instagram: https://instagram.com/cdxvy.go
+- X: https://x.com/cdxvy30
 
 ## Today's NBA stats
 
