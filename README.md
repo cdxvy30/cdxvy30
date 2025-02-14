@@ -10,10 +10,9 @@
 ### ⚡ More about me
 
 - I don't have any educational background in computer science. **I learn to program because I wanted to build something cool**.
-- Recently found that I tend to think of myself as a **life developer**.
 - In addition to coding, I also like:
   - Sports, especially basketball and soccer.
-  - Travel.
+  - Travel, recently obsessed with Japan.
   - Outdoor activities. Seeking opportunities to go hiking, camping, scuba diving and surfing.
   - Movies, series and animes.
   - Architecture. Before becoming a programmer, I once dreamed to be an architect.
