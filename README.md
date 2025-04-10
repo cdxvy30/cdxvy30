@@ -19,7 +19,7 @@
 
 ## Skill sets
 
-[![My Skills](https://skillicons.dev/icons?i=js,go,python,typescript,react,postgresql,redis,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,typescript,python,react,postgresql,redis,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus,nginx,cloudflare,gcp,aws)](https://skillicons.dev)
 
