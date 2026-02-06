@@ -4,16 +4,16 @@
 
 ### 🔭 Work experience
 
-- AWS Educate Cloud Ambassador, Technical Support @[AWS](https://aws.amazon.com/tw/education/awseducate/) (2024/12~Now)
-- Software Engineer Intern @[LINE](https://techblog.lycorp.co.jp/zh-hant) (2024/07~Now)
+- AWS Educate Cloud Ambassador, Technical Support @[AWS](https://aws.amazon.com/tw/education/awseducate/) (2024/12~2025/07)
+- Software Engineer Intern @[LINE](https://techblog.lycorp.co.jp/zh-hant) (2024/07~2025/06)
 - Cloud Architect Intern @[Cathay Holdings](https://www.cathayholdings.com/holdings/career) (2024/02~06)
 - Backend Engineer Intern @[Jubo](https://jubo-health.com/team/) (2023/07~09)
 
 ## 💻 Skill sets
 
-[![My Skills](https://skillicons.dev/icons?i=js,go,typescript,python,react,postgresql,redis,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,typescript,js,python,react,postgresql,redis,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus,nginx,cloudflare,gcp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus,terraform,cloudflare,gcp,aws)](https://skillicons.dev)
 
 ## 📖 Public articles
 
