@@ -24,7 +24,6 @@
 
 - Linkedin: https://www.linkedin.com/in/cdxvy30
 - E-mail: cdxvy30@gmail.com
-- Instagram: https://instagram.com/cdxvy.go
 - X: https://x.com/cdxvy30
 
 <!--
