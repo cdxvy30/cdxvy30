@@ -2,7 +2,7 @@
 
 Currently work on [@otterscale](https://github.com/otterscale), with my passion about Kubernetes, Golang, Networking.
 
-### Work experience
+## Work experience
 
 - Software Engineer Intern @[LINE](https://techblog.lycorp.co.jp/zh-hant) (2024/07~2025/06)
 - Cloud Architect Intern @[Cathay Holdings](https://www.cathayholdings.com/holdings/career) (2024/02~06)
@@ -12,8 +12,8 @@ Currently work on [@otterscale](https://github.com/otterscale), with my passion 
 
 ### Volunteer
 
-- [KCD Taipei 2025](https://kcd.taipei/2025) Volunteer - Group Design (2025/01~2025/07)
-- [AWS Educate Cloud Ambassador](https://github.com/aws-educate-tw) Technical Support (2024/12~2025/07)
+- [Kubernetes Community Days Taipei 2025](https://kcd.taipei/2025) - Volunteer (2025/01~2025/07)
+- [AWS Educate Cloud Ambassador](https://github.com/aws-educate-tw) - Technical Support (2024/12~2025/07)
 
 ### Public Article
 
