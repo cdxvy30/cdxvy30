@@ -4,7 +4,7 @@ Currently work on [@otterscale](https://github.com/otterscale), with my passion 
 
 ## Work experience
 
-- AI Infra Engineer @[Phison](https://www.phison.com/) (2025/05~Present.)
+- AI Infra Engineer @[Phison](https://www.phison.com/) (2026/05~Present.)
 - Software Engineer Intern @[LINE](https://techblog.lycorp.co.jp/zh-hant) (2024/07~2025/06)
 - Cloud Architect Intern @[Cathay Holdings](https://www.cathayholdings.com/holdings/career) (2024/02~06)
 - Backend Engineer Intern @[Jubo](https://jubo-health.com/team/) (2023/07~09)
